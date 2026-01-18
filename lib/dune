@@ -1,0 +1,3 @@
+(library
+ (name requiem_lang)
+ (public_name requiem_lang))

@@ -1,0 +1,4 @@
+(* Our first OCaml file! *)
+let greet name = 
+"Hello, " ^ name ^ "!"
+let () = print_endline (greet "Requiem")
